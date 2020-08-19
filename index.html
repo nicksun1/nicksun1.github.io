@@ -1,50 +1,12 @@
----
-layout: page
-title: About
-description: Nicholas Sun is a Senior Statistician at Eli Lilly and Company
----
-<!--
-I am an Assistant Professor in the
-[Department of Biostatistics](https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/biostatistics.html)
-at the University of Texas MD Anderson Cancer Center.
-I received my BS in Applied Mathematics from Columbia University in 2012
-and my PhD in Biostatistics from Harvard University in 2017.
-My PhD advisor was [Professor Xihong Lin](https://www.hsph.harvard.edu/xihong-lin/),
-and I also worked closely with [Professor Peter Kraft](https://www.hsph.harvard.edu/peter-kraft/),
-[Professor LJ Wei](https://www.hsph.harvard.edu/l-wei/), and [Professor David Christiani](https://www.hsph.harvard.edu/david-christiani/).
-I remained at Harvard for my postdoctoral training and joined MD Anderson in July 2019.
-
-My research interests lie in developing novel statistical methodology that enables researchers to extract knowledge and insights from increasingly complex biomedical datasets. I also emphasize applying these methods and disseminating the ideas to the broader biomedical research community. Currently I work heavily with genetics and genomics datasets to better understand the underlying causes of cancers and other diseases. In particular, I am focused on integrating different types of data, e.g. environmental, clinical, or other omics data, to better understand the genetic and genomic etiology of disease.
-
-[curriculum vitae ![CV as pdf](pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/rsun-20190820.pdf)<br/>
-[orcid](https://orcid.org): [0000-0003-1176-1561](https://orcid.org/0000-0003-1176-1561)<br/>
-[github](https://github.com/ryanrsun)<br/>
--->
----
-
-<div class="container">
-<h4><a name="Contact"></a>Contact</h4>
-
-    <div class="row-fluid">
-        <div class="span5">
-            Nicholas Sun <br/>
-            Eli Lilly and Company <br/>
-	    Lilly Corporate Center <br/>
-            893 Delaware St, Indianapolis, IN 46225<br/>
-            USA<br/><br/>
-
-            <div id="hide_email">
-            Email: <code>sun</code><b>jumblejumble</b><code>_nicholas@lilly.com</code><br/>
-            Phone: 573-639-2388
-            </div>
-        </div>
-<!--
-        <div class="span2">
-        <a href="../assets/pics/ryan_small.png">
-            <img src="../assets/pics/ryan.jpg"
-                  title="Ryan Sun" alt="Ryan Sun"/></a>
-        </div>-->
-    </div>
-</div>
 
 ---
+layout: default
+title: Ryan Sun's Blog
+---
+	<h1>{{ page.title }}</h1>
+	<ul class="posts">
+
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
