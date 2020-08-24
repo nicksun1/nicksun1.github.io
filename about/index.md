@@ -5,4 +5,4 @@ layout: default
 
 This is me.
 
-[Home] (http://nicksun1.github.io)
+[Home] (https://nicksun1.github.io)
