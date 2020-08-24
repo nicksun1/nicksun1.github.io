@@ -1,7 +1,6 @@
 ---
 layout: default
-title: About
 ---
-
+# About
 This is me.
-[Home] (./)
+[Home] (http://nicksun1.github.io)
