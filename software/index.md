@@ -2,6 +2,7 @@
 layout: default
 title: Software
 ---
+# Software
 
 #### <a name="GEint"></a>[R/GEint](https://www.github.com/ryanrsun/GEint)
 
