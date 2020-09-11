@@ -24,7 +24,9 @@
 </ul>
     </nav>
 
-    {% include analytics.html %}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
 {% seo %}
 
   </head>
