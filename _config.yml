@@ -4,3 +4,6 @@ markdown: kramdown
 theme: jekyll-theme-slate
 title: [Nicholas Sun's Website]
 description: [asdf]
+
+# Google Analytics
+google_analytics: UA—176121454-1
