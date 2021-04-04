@@ -13,7 +13,7 @@ description: passive
 					<h1></h1>
 					<address>
 					<strong>Nicholas Sun</strong><br>
-					<a href="https://www.lilly.com/">Eli Lilly and Company</a><br/
+					<a href="https://www.lilly.com/">Eli Lilly and Company</a>
 					3607 Blue Cedar Lane<br>
 					Columbia, Missouri 65203<br>
 					<abbr title="phone">P:</abbr> (573) 639-2388<br>
