@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## title: CV of Nicholas Sun
+## CV of Nicholas Sun
 
 	<div class="cv">
 		<a href="#" class="download" title="Download CV as PDF">Download CV</a>			
