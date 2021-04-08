@@ -5,10 +5,10 @@ description: Nicholas Sun is a Senior Statistican at Eli Lilly and Company.
 ---
 <div class="row marketing">
 	<div class="span6">
-	<img  alt="km" src="./file/KM_plot.png" width="500" height="250">
+	<img  alt="km" src="./file/KM_plot.png" width="400" height="200">
 	</div>
 	<div class="span6">
-	<img  alt="km" src="./file/3model_plot.png" width="500" height="250">
+	<img  alt="km" src="./file/3model_plot.png" width="400" height="200">
 	</div>
 </div>
 
