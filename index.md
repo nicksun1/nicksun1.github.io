@@ -4,11 +4,11 @@ title: Nicholas Sun's Website
 description: Nicholas Sun is a Senior Statistican at Eli Lilly and Company.
 ---
 <div class="row marketing">
-	<div class="col-sm-4">
-	<img  alt="km" src="./file/KM_plot.png" width="400" height="200">
+	<div class="col-sm-6">
+	<img  class="img-circle avatar" alt="km" src="./file/KM_plot.png" width="400" height="200">
 	</div>
-	<div class="span6">
-	<img  alt="km" src="./file/3model_plot.png" width="400" height="200">
+	<div class="col-sm-6">
+	<img  class="img-circle avatar" alt="km" src="./file/3model_plot.png" width="400" height="200">
 	</div>
 </div>
 
