@@ -4,6 +4,13 @@ title: Nicholas Sun's Website
 description: Nicholas Sun is a Senior Statistican at Eli Lilly and Company.
 ---
 
+
+<div class="row marketing">
+	<div class="col-sm-8">
+	<img  class="img-circle avatar" alt="km" src="./file/IMG_0925.jpg" width="200" height="400">
+	</div>
+</div>
+
 <html>
 <head>
 <style>
@@ -13,8 +20,8 @@ description: Nicholas Sun is a Senior Statistican at Eli Lilly and Company.
 
 .column {
   float: left;
-  width: 33.33%;
-  padding: 5px;
+  width: 50%;
+  padding: 8px;
 }
 
 /* Clearfix (clear floats) */
@@ -32,32 +39,16 @@ description: Nicholas Sun is a Senior Statistican at Eli Lilly and Company.
 
 <div class="row">
   <div class="column">
-    <img src="./file/IMG_0925.jpg" alt="Snow" style="width:100%">
+    <img src="./file/KM_plot.png" alt="Snow" style="width:100%">
   </div>
   <div class="column">
-    <img src="./file/IMG_0925.jpg" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="./file/IMG_0925.jpg" alt="Mountains" style="width:100%">
+    <img src="./file/3model_plot.png" alt="Forest" style="width:100%">
   </div>
 </div>
 
 </body>
 </html>
 
-
-<div class="row marketing">
-	<div class="col-sm-4">
-	<img  class="img-circle avatar" alt="km" src="./file/IMG_0925.jpg" width="200" height="100">
-	</div>
-	<div class="col-sm-4">
-	<img  class="img-circle avatar" alt="km" src="./file/3model_plot.png" width="200" height="100">
-	</div>
-</div>
-
-![KM_Plot](./file/model1.png) ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)<br/>
- <br/>
- 
  
 [Github](https://github.com/nicksun1)<br/>
 [Learn more about me](./about/index.md)
