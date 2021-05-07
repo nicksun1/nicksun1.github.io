@@ -5,7 +5,7 @@ description: Nicholas Sun is a Senior Statistican at Eli Lilly and Company.
 ---
 <div class='container2'>
         <div>
-            <img src="./file/IMG_0925.jpg" class="img-circle avatar" width="300" height="400">
+            <img src="./file/IMG_0925.jpg" class="img-circle avatar" width="150" height="200">
         </div>  
     <div style='margin-left:60px;'>
     <div style="font-size:.6em">fine location, GPS, coarse location</div>
