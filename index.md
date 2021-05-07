@@ -51,7 +51,7 @@ description: Nicholas Sun is a Senior Statistican at Eli Lilly and Company.
 <p>Analysis models for desired endpoints and simulation analysis.</p>
 <div class="row">
   <div class="column">
-    <img src="./file/model1_plot.png" alt="Snow" style="width:100%">
+    <img src="./file/model_plot1.png" alt="Snow" style="width:100%">
   </div>
   <div class="column">
     <img src="./file/3model_plot.png" alt="Forest" style="width:100%">
