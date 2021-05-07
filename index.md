@@ -36,7 +36,7 @@ description: Nicholas Sun is a Senior Statistican at Eli Lilly and Company.
 </head>
 <body>
 
-<h2>Images Side by Side</h2>
+
 <p>Comparison of Kaplan Meier curves under two different analysis methods</p>
 
 <div class="row">
