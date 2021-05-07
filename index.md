@@ -10,8 +10,8 @@ description: Nicholas Sun is a Senior Statistican at Eli Lilly and Company.
  .iconDetails {
  margin-left:2%;
 float:left; 
-height:40px;
-width:40px; 
+height:20px;
+width:20px; 
 } 
 
 .container2 {
