@@ -4,6 +4,35 @@ title: Nicholas Sun's Website
 description: Nicholas Sun is a Senior Statistican at Eli Lilly and Company.
 ---
 [Github](https://github.com/nicksun1)<br/>
+<html>
+<head>
+<style>
+ .iconDetails {
+ margin-left:2%;
+float:left; 
+height:40px;
+width:40px; 
+} 
+
+.container2 {
+    width:100%;
+    height:auto;
+    padding:1%;
+}
+</style>
+</head>
+<body>
+<div class='container2'>
+        <div>
+            <img src='http://ecx.images-amazon.com/images/I/21-leKb-zsL._SL500_AA300_.png' class='iconDetails'>
+        </div>  
+    <div style="font-size:.6em">fine location, GPS, coarse location</div>
+    <div style="float:right;font-size:.6em">0 mins ago</div>
+    </div>
+</div>
+
+
+
 
 <div class="row marketing">
 	<div class="col-sm-6">
