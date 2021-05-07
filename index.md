@@ -22,7 +22,7 @@ description: Nicholas Sun is a Senior Statistican at Eli Lilly and Company.
 
 .column {
   float: left;
-  width: 50%;
+  width: 100%;
   padding: 8px;
 }
 
@@ -37,17 +37,26 @@ description: Nicholas Sun is a Senior Statistican at Eli Lilly and Company.
 <body>
 
 <h2>Images Side by Side</h2>
-<p>Me</p>
+<p>Comparison of Kaplan Meier curves under two different analysis methods</p>
 
 <div class="row">
   <div class="column">
     <img src="./file/KM_plot.png" alt="Snow" style="width:100%">
   </div>
+.column {
+  float: left;
+  width: 50%;
+  padding: 8px;
+}
+<p>Analysis models for desired endpoints and simulation analysis.</p>
+<div class="row">
+  <div class="column">
+    <img src="./file/model1_plot.png" alt="Snow" style="width:100%">
+  </div>
   <div class="column">
     <img src="./file/3model_plot.png" alt="Forest" style="width:100%">
   </div>
 </div>
-
 </body>
 </html>
 
