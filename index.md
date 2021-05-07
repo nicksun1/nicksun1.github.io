@@ -3,6 +3,18 @@ layout: default
 title: Nicholas Sun's Website
 description: Nicholas Sun is a Senior Statistican at Eli Lilly and Company.
 ---
+ .iconDetails {
+ margin-left:2%;
+float:left; 
+height:40px;
+width:40px; 
+} 
+
+.container2 {
+    width:100%;
+    height:auto;
+    padding:1%;
+}
 <div class='container2'>
         <div>
             <img src="./file/IMG_0925.jpg" class="img-circle avatar" width="150" height="200">
@@ -44,12 +56,12 @@ description: Nicholas Sun is a Senior Statistican at Eli Lilly and Company.
 <body>
 
 
-<p>Comparison of Kaplan Meier curves under two different analysis methods</p>
+<p style="font-size:18px;">Comparison of Kaplan Meier curves under two different analysis methods</p>
 <div class="col-sm-6">
-	<img  class="img-circle avatar" alt="km" src="./file/KM_plot.png" width="700" height="250">
+	<img  class="img-circle avatar" alt="km" src="./file/KM_plot.png" width="570" height="200">
 </div>
 
-<p>Analysis models for desired endpoints and simulation analysis.</p>
+<p style="font-size:18px;">Analysis models for desired endpoints and simulation analysis.</p>
 <div class="row">
   <div class="column">
     <img src="./file/model_plot1.png" alt="Snow" style="width:100%">
