@@ -3,19 +3,8 @@ layout: default
 title: Nicholas Sun's Website
 description: Nicholas Sun is a Senior Statistican at Eli Lilly and Company.
 ---
- .iconDetails {
- margin-left:2%;
-float:left; 
-height:40px;
-width:40px; 
-} 
 
-.container2 {
-    width:100%;
-    height:auto;
-    padding:1%;
-}
-<div class='container2'>
+<div class='container-fluid'>
         <div>
             <img src="./file/IMG_0925.jpg" class="img-circle avatar" width="150" height="200">
         </div>  
@@ -26,7 +15,7 @@ width:40px;
 </div>
 <div class="row marketing">
 	<div class="col-sm-6">
-	<img  class="img-circle avatar" alt="km" src="./file/IMG_0925.jpg" width="300" height="400">
+	<img  class="img-circle avatar" alt="km" src="./file/IMG_0925.jpg" width="200" height="267">
 	</div>
 	<p style="font-size:14px;">Hi my name is Nicholas Sun currently working at Eli Lilly and Company, I am a statistician and data scientist with extensive experience performing analysis on massive, complex datasets. Interested in development of interpretable and robust tools backed by superior quantitative operating characteristics. My areas of expertise include statistical methodology development, large-scale simulation studies, predictive modeling, development of visualization tools. Phase 1, 2, and 3 Clinical trials and biomarker studies.</p>
 </div>
