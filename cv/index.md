@@ -10,8 +10,6 @@ description: passive
 ---
 <div class="cv">
 		<a href="/file/Resume_042921.pdf" class="btn btn-default pull-right" title="Download CV as PDF">Download CV</a>
-
-		<a href="#" class="download" title="Download CV as PDF">Download CV</a>			
 					<h1></h1>
 					<address>
 					<strong>Nicholas Sun</strong><br>
