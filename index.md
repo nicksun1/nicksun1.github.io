@@ -40,7 +40,7 @@ description: Nicholas Sun is a Senior Statistican at Eli Lilly and Company.
 
 <p>Comparison of Kaplan Meier curves under two different analysis methods</p>
 <div class="col-sm-6">
-	<img  class="img-circle avatar" alt="km" src="./file/KM_plot.png" width="600" height="300">
+	<img  class="img-circle avatar" alt="km" src="./file/KM_plot.png" width="700" height="250">
 </div>
 
 <p>Analysis models for desired endpoints and simulation analysis.</p>
