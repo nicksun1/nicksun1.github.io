@@ -28,7 +28,7 @@ img {
 <body>
 <div class='container2'>
         <div>
-            <img src='http://ecx.images-amazon.com/images/I/21-leKb-zsL._SL500_AA300_.png' class='iconDetails'>
+            <img src=src="./file/IMG_0925.jpg" class='iconDetails'>
         </div>  
     <div style="font-size:.6em">fine location, GPS, coarse location</div>
     <div style="float:right;font-size:.6em">0 mins ago</div>
