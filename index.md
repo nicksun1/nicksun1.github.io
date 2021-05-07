@@ -27,24 +27,13 @@ img {
 </style>
 </head>
 <body>
-<div class='container2'>
-        <div>
-            <img src=src="./file/IMG_0925.jpg" class='iconDetails'>
-        </div>  
-    <div style="font-size:.6em">fine location, GPS, coarse location</div>
-    <div style="float:right;font-size:.6em">0 mins ago</div>
-    </div>
-</div>
 
-
-
-
+<p style="font-size:14px;">Hi my name is Nicholas Sun currently working at Eli Lilly and Company, I am a statistician and data scientist with extensive experience performing analysis on massive, complex datasets. Interested in development of interpretable and robust tools backed by superior quantitative operating characteristics. My areas of expertise include statistical methodology development, large-scale simulation studies, predictive modeling, development of visualization tools. Phase 1, 2, and 3 Clinical trials and biomarker studies.</p>
 <div class="row marketing">
 	<div class="col-sm-6">
-	<img src="./file/IMG_0925.jpg" alt="Paris" style="width:50%;">
-	<img  class="center" alt="km" src="./file/IMG_0925.jpg" width="200" height="267">
+	<img  class="center" alt="km" src="./file/IMG_0925.jpg" width="250" height="333.33">
 	</div>
-	<p style="font-size:14px;">Hi my name is Nicholas Sun currently working at Eli Lilly and Company, I am a statistician and data scientist with extensive experience performing analysis on massive, complex datasets. Interested in development of interpretable and robust tools backed by superior quantitative operating characteristics. My areas of expertise include statistical methodology development, large-scale simulation studies, predictive modeling, development of visualization tools. Phase 1, 2, and 3 Clinical trials and biomarker studies.</p>
+	
 </div>
 
 
@@ -87,8 +76,7 @@ img {
   </div>
 </div>
  
-[Github](https://github.com/nicksun1)<br/>
-[Learn more about me](./about/index.md)
+
 </body>
 </html>
 
