@@ -6,6 +6,7 @@ description: Nicholas Sun is a Senior Statistican at Eli Lilly and Company.
 [Github](https://github.com/nicksun1)<br/>
 <html>
 <head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
  .iconDetails {
  margin-left:2%;
