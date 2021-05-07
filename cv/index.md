@@ -9,6 +9,8 @@ contact: passive
 description: passive
 ---
 <div class="cv">
+		<a href="/files/Resume.pdf" class="btn btn-default pull-right" title="Download CV as PDF">Download CV</a>
+
 		<a href="#" class="download" title="Download CV as PDF">Download CV</a>			
 					<h1></h1>
 					<address>
