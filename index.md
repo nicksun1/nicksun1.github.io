@@ -9,12 +9,8 @@ description: Nicholas Sun is a Senior Statistican at Eli Lilly and Company.
 	<div class="col-sm-8">
 	<img  class="img-circle avatar" alt="km" src="./file/IMG_0925.jpg" width="300" height="400">
 	</div>
-	</div>
-	<p class="lead">Hi, I'm <span itemprop="name">Jonathan McGlone</span> and I make things on the web for academic libraries and scholarly publishers.</p>
-	<p>I get by as a <span itemprop="title">librarian</span>, <span itemprop="title">front end developer</span>, <span itemprop="title">UI designer</span>, <span itemprop="title">digital publisher</span>, and music enthusiast living in <span itemprop="address" itemscope
-    itemtype="http://data-vocabulary.org/Address">Northern <span itemprop="region">Michigan</span></span> and working for <a href="http://www.publishing.umich.edu">Michigan Publishing</a> at <span itemprop="affiliation">the <a href="http://www.lib.umich.edu">University of Michigan Library</a></span>.</p>
-	
-	<p>I'm also available for hire as a <span itemprop="title">freelance web developer, designer, or consultant</span>. <a href="contact">Drop me a line</a> about your project if you're interested in working with me.</p>
+	</div> <p class="lead">Hi, I'm <span itemprop="name">Nicholas Sun</span> and I am currently a Senior Statistician working at Eli Lilly and Company.</p>
+	<p>I am a statistician and data scientist with extensive experience performing analysis on massive, complex datasets. Interested in development of interpretable and robust tools backed by superior quantitative operating characteristics. My areas of expertise include statistical methodology development, large-scale simulation studies, predictive modeling, development of visualization tools. Phase 1, 2, and 3 Clinical trials and biomarker studies.</p>
 	</div>
 </div>
 <html>
