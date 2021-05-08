@@ -10,13 +10,13 @@ An [R](https://www.r-project.org/) package with tools for applying a novel metho
 
 ---
 
-#### <a name="GBJ"></a>[R/GBJ](https://www.github.com/ryanrsun/GBJ)
+#### <a name="InsulinSensitivity"></a>[R/InsulinSensitivity](https://github.com/nicksun1/InsulinSensitivity)
 
-An [R](https://www.r-project.org/) package to calculate the Generalized Berk-Jones statistic and p-value for set-based inference in genetic association studies.
-Also computes the Generalized Higher Criticism and Minimum p-value statistics. 
+An [R](https://www.r-project.org/) and [SAS](https://www.sas.com/en_us/home.html) project evaluating best use case universal diabetes measure of insulin sensitivity while accounting for available information, efficiency and depth of desired conclusion.
+
 
 ---
 
-#### <a name="reconstructKM"></a>[R/reconstructKM](https://www.github.com/ryanrsun/reconstructKM) 
+#### <a name="COVID-19-Risk"></a>[R/COVID-19-Risk](https://www.github.com/nicksun1/COVID-19-Risk) 
 
-An [R](https://www.r-project.org/) package to reconstruct individual-level data from Kaplan-Meier plots published in academic journals.
+An [R](https://www.r-project.org/) and [SAS](https://www.sas.com/en_us/home.html) project to assess risk to clincial trial viability in the middle of the COVID-19 pandemic via a self-created in-house risk assessment equation using scraped data from various online sources. Applicable to other risk factors.
