@@ -36,20 +36,17 @@ img {
 	
 </div>
 
-<!--
-<html>
+<!--<html>
 <head>
 <style>
 * {
   box-sizing: border-box;
 }
-<!--
 .column {
   float: left;
   width: 50%;
   padding: 8px;
 }
-<!--
 /* Clearfix (clear floats) */
 .row::after {
   content: "";
@@ -73,7 +70,7 @@ img {
   </div>
 </div>
 </body>
-</html>
+</html> -->
 
 
  
