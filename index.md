@@ -28,7 +28,7 @@ img {
 </head>
 <body>
 
-<p style="font-size:17px;">Hi my name is Nicholas Sun and I currently work at Eli Lilly and Company. I am a statistician and data scientist with extensive experience performing analysis on massive, complex datasets. Interested in development of interpretable and robust tools backed by superior quantitative operating characteristics. My areas of expertise include statistical methodology development, large-scale simulation studies, predictive modeling, development of visualization tools. Phase 1, 2, and 3 Clinical trials and biomarker studies.</p>
+<p style="font-size:17px;">Hi my name is Nicholas Sun and I currently work at Eli Lilly and Company. I am a statistician and data scientist with extensive experience performing analysis on massive, complex datasets. I am interested in the development of interpretable and robust tools backed by superior quantitative operating characteristics. My areas of expertise include statistical methodology development, large-scale simulation studies, predictive modeling, and development of visualization tools. I also have extensive background and knowledge in dealing with Phase 1, 2, and 3 clinical trial and biomarker studies.</p>
 <div class="row marketing">
 	<div class="col-sm-6">
 	<img  class="center" alt="km" src="./file/IMG_0925.jpg" width="300" height="400">
